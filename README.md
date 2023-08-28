@@ -1,3 +1,5 @@
+Attempt at the following assignment:
+
 ## Introduction
 
 Hello, thank you for showing your interest in Bits of Good! This semester, we wanted to ensure interested candidates are adequately prepared for the bootcamp through introducing this HTML/CSS oriented take home assessment. The bootcamp generally requires having some knowledge beforehand in HTML/CSS to be successful so this assessment will serve as a reflection of your ability to work with HTML/CSS.
